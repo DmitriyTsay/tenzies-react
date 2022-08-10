@@ -1,3 +1,7 @@
+#From Author (Tsay D.)
+Here u can view my capstone project on Scrimba course and play with it - https://tenzies-react-eta.vercel.app/
+Hope u'll enjoy it ;)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

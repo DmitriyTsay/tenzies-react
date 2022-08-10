@@ -1,4 +1,4 @@
-#From Author (Tsay D.)
+# From Author (Tsay D.)
 Here u can view my capstone project on Scrimba course and play with it - https://tenzies-react-eta.vercel.app/
 Hope u'll enjoy it ;)
 
